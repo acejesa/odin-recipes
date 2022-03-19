@@ -1,0 +1,22 @@
+.main_page{
+    text-align: center;
+    font-family: "Courier New";
+    color: blue;
+}
+#green_page{
+    background-color: #008800;
+}
+.main_page.title{
+    color: red;
+}
+ul{
+    color: blue;
+}
+img{
+    width: 500px;
+    height: auto;
+}
+ol,.chocolate{
+background-color: hsl(60, 75%, 50%);
+}
+
