@@ -12,6 +12,9 @@
 ul{
     color: blue;
 }
+.list{
+    font-family: 'Courier New', Courier, monospace;
+}
 img{
     width: 500px;
     height: auto;
